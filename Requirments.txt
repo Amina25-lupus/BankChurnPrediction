@@ -5,6 +5,6 @@ shap==0.46.0
 matplotlib
 fairlearn
 requests
-torch==2.4.1 --index-url https://download.pytorch.org/whl/cpu
-torchvision==0.19.1 --index-url https://download.pytorch.org/whl/cpu
-torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cpu
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
